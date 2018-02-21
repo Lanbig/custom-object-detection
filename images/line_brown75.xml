@@ -1,0 +1,26 @@
+<annotation>
+	<folder>line_brown</folder>
+	<filename>line_brown75.jpg</filename>
+	<path>/Users/lanbig/Desktop/line_brown/line_brown75.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>line_brown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>221</ymin>
+			<xmax>293</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>
